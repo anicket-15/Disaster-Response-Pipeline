@@ -46,7 +46,7 @@ There are three main foleders:
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits must be given to Udacity for the starter codes and FigureEight for provding the data used by this project. 
+Credits must be given to Udacity and FigureEight for provding the data used by this project. 
 ## Instructions:<a name="instructions"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
 
